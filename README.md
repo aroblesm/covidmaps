@@ -1,2 +1,2 @@
 # covidmaps
-Repositorio para materia de Administarción de proyectos de Ingeniería de Software
+Repositorio para materia de Administración de proyectos de Ingeniería de Software
