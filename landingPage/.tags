@@ -1,0 +1,183 @@
+html	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^<html>$/;"	function	line:2
+head	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^<head>$/;"	function	line:4
+meta	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^  <meta charset="utf-8">$/;"	function	line:5
+title	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^  <title>TinDog<\/title>$/;"	function	line:6
+link	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^  <link rel="stylesheet" href="https:\/\/cdn.jsdelivr.net\/npm\/bootstrap@4.5.3\/dist\/css\/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e\/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">$/;"	function	line:7
+link	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^  <link rel="stylesheet" href="css\/styles.css">$/;"	function	line:8
+link	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^  <link rel="preconnect" href="https:\/\/fonts.gstatic.com">$/;"	function	line:9
+link	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^  <link rel="preconnect" href="https:\/\/fonts.gstatic.com">$/;"	function	line:12
+link	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^  <link href="https:\/\/fonts.googleapis.com\/css2?family=Montserrat:wght@300;700&family=Ubuntu:wght@300&display=swap" rel="stylesheet">$/;"	function	line:13
+script	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^  <script src="https:\/\/kit.fontawesome.com\/48428b4ecf.js" crossorigin="anonymous"><\/script>$/;"	function	line:15
+body	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^<body>$/;"	function	line:19
+script	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^  <script src="https:\/\/code.jquery.com\/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj\/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"><\/script>$/;"	function	line:21
+script	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^  <script src="https:\/\/cdn.jsdelivr.net\/npm\/bootstrap@4.5.3\/dist\/js\/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ\/JpcUGGOn+Y7RsweNrtN\/tE3MoK7ZeZDyx" crossorigin="anonymous"><\/script>$/;"	function	line:22
+section	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^  <section id="title">$/;"	function	line:24
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <div class="container-fluid">$/;"	function	line:27
+nav	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^      <nav class="navbar navbar-expand-lg navbar-dark">$/;"	function	line:28
+a	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <a class="navbar-brand" href="#">TinDog<\/a>$/;"	function	line:29
+button	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">$/;"	function	line:31
+span	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <span class="navbar-toggler-icon"><\/span>$/;"	function	line:32
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <div class="collapse navbar-collapse" id="navbarSupportedContent">$/;"	function	line:35
+ul	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <ul class="navbar-nav ml-auto navbarItems">$/;"	function	line:36
+li	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <li class="nav-item">$/;"	function	line:37
+a	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^              <a class="nav-link" href="#">Home<\/a>$/;"	function	line:38
+li	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <li class="nav-item">$/;"	function	line:40
+a	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^              <a class="nav-link" href="#">Download<\/a>$/;"	function	line:41
+li	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <li class="nav-item">$/;"	function	line:43
+a	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^              <a class="nav-link" href="#">More<\/a>$/;"	function	line:44
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^      <div class="row">$/;"	function	line:52
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <div class="col-lg-7">$/;"	function	line:53
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <h1 class="top-h1">Meet new and interesting dogs nearby.<\/h1>$/;"	function	line:54
+button	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <button type="button" class="btn btn-dark btn-lg download-button"><i class="fa fa-apple"><\/i> Download<\/button>$/;"	function	line:55
+button	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <button type="button" class="btn btn-outline-light btn-lg download-button"> <i class="fa fa-android"><\/i> Download<\/button>$/;"	function	line:56
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <div class="col-lg-5">$/;"	function	line:58
+img	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <img class="dog-img" src="images\/iphone6.png" alt="iphone-mockup">$/;"	function	line:59
+section	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^  <section id="features">$/;"	function	line:68
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^  <div class="container-fluid">$/;"	function	line:70
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <div class="row">$/;"	function	line:71
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^      <div class="col-md-12 col-lg-4 features-box">$/;"	function	line:72
+i	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <i class="fas fa-check-circle fa-4x features-icon"><\/i>$/;"	function	line:73
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <h3>Easy to use.<\/h3>$/;"	function	line:74
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <p>So easy to use, even your dog could do it.<\/p>$/;"	function	line:75
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^      <div class="col-md-12 col-lg-4 features-box">$/;"	function	line:77
+i	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <i class="fas fa-bullseye fa-4x features-icon"><\/i>$/;"	function	line:78
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <h3>Elite Clientele<\/h3>$/;"	function	line:79
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <p>We have all the dogs, the greatest dogs.<\/p>$/;"	function	line:80
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^      <div class="col-md-12 col-lg-4 features-box">$/;"	function	line:82
+i	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <i class="fas fa-heart fa-4x features-icon"><\/i>$/;"	function	line:83
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <h3>Guaranteed to work.<\/h3>$/;"	function	line:84
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <p>Find the love of your dog's life or your money back.<\/p>$/;"	function	line:85
+section	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^  <section id="testimonials">$/;"	function	line:96
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <div id="carouselExampleControls" class="carousel slide" data-interval="5000" data-ride="carousel" pause="hover">$/;"	function	line:98
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^      <div class="carousel-inner">$/;"	function	line:99
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <div class="carousel-item active">$/;"	function	line:100
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <h2>I no longer have to sniff other dogs for love. I've found the hottest Corgi on TinDog. Woof.<\/h2>$/;"	function	line:101
+img	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <img src="images\/dog-img.jpg" class="testimonial-image" alt="dog-profile">$/;"	function	line:102
+em	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <em>Pebbles, New York<\/em>$/;"	function	line:103
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <div class="carousel-item">$/;"	function	line:105
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <h2>My dog used to be so lonely, but with TinDog's help, they've found the love of their life. I think.<\/h2>$/;"	function	line:106
+img	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <img src="images\/lady-img.jpg" class="testimonial-image" alt="lady-profile">$/;"	function	line:107
+em	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <em>Beverly, Illinois<\/em>$/;"	function	line:108
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <div class="carousel-item">$/;"	function	line:110
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <h2>I got to be the most valued doggy on this app. My self-steam just skyrocketed.<\/h2>$/;"	function	line:111
+img	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <img src="images\/sofi.png" class="testimonial-image" alt="dog-profile">$/;"	function	line:112
+em	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <em>Sofi, Mexico<\/em>$/;"	function	line:113
+a	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">$/;"	function	line:117
+span	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <span class="carousel-control-prev-icon" aria-hidden="true"><\/span>$/;"	function	line:118
+span	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <span class="sr-only">Previous<\/span>$/;"	function	line:119
+a	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^      <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">$/;"	function	line:121
+span	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <span class="carousel-control-next-icon" aria-hidden="true"><\/span>$/;"	function	line:122
+span	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <span class="sr-only">Next<\/span>$/;"	function	line:123
+section	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^  <section id="press">$/;"	function	line:132
+img	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <img class="press-image" src="images\/techcrunch.png" alt="tc-logo">$/;"	function	line:133
+img	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <img class="press-image" src="images\/tnw.png" alt="tnw-logo">$/;"	function	line:134
+img	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <img class="press-image" src="images\/bizinsider.png" alt="biz-insider-logo">$/;"	function	line:135
+img	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <img class="press-image" src="images\/mashable.png" alt="mashable-logo">$/;"	function	line:136
+section	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^  <section id="pricing">$/;"	function	line:143
+i	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <i class="far fa-calendar-check fa-3x text-danger"><\/i>$/;"	function	line:144
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <h2>A Plan for Every Dog's Needs<\/h2>$/;"	function	line:145
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <p>Simple and affordable price plans for you and your dog.<\/p>$/;"	function	line:146
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <div class="row">$/;"	function	line:148
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^      <div class="col-lg-4 col-md-6">$/;"	function	line:149
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <div class="card">$/;"	function	line:150
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <div class="card-header bg-danger">$/;"	function	line:151
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <h3>Chihuahua<\/h3>$/;"	function	line:152
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <div class="card-body">$/;"	function	line:154
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <h2>Free<\/h2>$/;"	function	line:155
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <p>5 Matches Per Day<\/p>$/;"	function	line:156
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <p>10 Messages Per Day<\/p>$/;"	function	line:157
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <p>Unlimited App Usage<\/p>$/;"	function	line:158
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <p style="visibility:hidden;">.<\/p>$/;"	function	line:159
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <div class="card-footer bg-white">$/;"	function	line:161
+button	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <button type="button" class="btn btn-outline-danger btn-lg btn-block">Sign Up<\/button>$/;"	function	line:162
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^      <div class="col-lg-4 col-md-6">$/;"	function	line:166
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <div class="card">$/;"	function	line:167
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <div class="card-header bg-danger">$/;"	function	line:168
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <h3>Labrador<\/h3>$/;"	function	line:169
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <div class="card-body">$/;"	function	line:171
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <h2>$49 <small>\/ mo<\/small><\/h2>$/;"	function	line:172
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <p>Unlimited Matches<\/p>$/;"	function	line:173
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <p>Unlimited Messages<\/p>$/;"	function	line:174
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <p>Unlimited App Usage<\/p>$/;"	function	line:175
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <p style="visibility:hidden;">.<\/p>$/;"	function	line:176
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <div class="card-footer bg-white">$/;"	function	line:178
+button	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <button type="button" class="btn btn-outline-danger btn-lg btn-block">Sign Up<\/button>$/;"	function	line:179
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^      <div class="col-lg-4 col-md-12">$/;"	function	line:183
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^        <div class="card">$/;"	function	line:184
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <div class="card-header bg-danger">$/;"	function	line:185
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <h3>Mastiff<\/h3>$/;"	function	line:186
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <div class="card-body">$/;"	function	line:188
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <h2>$99 <small>\/ mo<\/small><\/h2>$/;"	function	line:189
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <p>Pirority Listing<\/p>$/;"	function	line:190
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <p>Unlimited Matches<\/p>$/;"	function	line:191
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <p>Unlimited Messages<\/p>$/;"	function	line:192
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <p>Unlimited App Usage<\/p>$/;"	function	line:193
+div	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^          <div class="card-footer bg-white">$/;"	function	line:195
+button	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^            <button type="button" class="btn btn-outline-danger btn-lg btn-block">Sign Up<\/button>$/;"	function	line:196
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <h3>Chihuahua<\/h3>$/;"	function	line:204
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <h2>Free<\/h2>$/;"	function	line:205
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <p>5 Matches Per Day<\/p>$/;"	function	line:206
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <p>10 Messages Per Day<\/p>$/;"	function	line:207
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <p>Unlimited App Usage<\/p>$/;"	function	line:208
+button	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <button type="button">Sign Up<\/button>$/;"	function	line:209
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <h3>Labrador<\/h3>$/;"	function	line:212
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <h2>$49 \/ mo<\/h2>$/;"	function	line:213
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <p>Unlimited Matches<\/p>$/;"	function	line:214
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <p>Unlimited Messages<\/p>$/;"	function	line:215
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <p>Unlimited App Usage<\/p>$/;"	function	line:216
+button	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <button type="button">Sign Up<\/button>$/;"	function	line:217
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <h3>Mastiff<\/h3>$/;"	function	line:220
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <h2>$99 \/ mo<\/h2>$/;"	function	line:221
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <p>Pirority Listing<\/p>$/;"	function	line:222
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <p>Unlimited Matches<\/p>$/;"	function	line:223
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <p>Unlimited Messages<\/p>$/;"	function	line:224
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <p>Unlimited App Usage<\/p>$/;"	function	line:225
+button	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <button type="button">Sign Up<\/button>-->$/;"	function	line:226
+section	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^  <section id="cta">$/;"	function	line:233
+h	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <h3>Find the True Love of Your Dog's Life Today.<\/h3>$/;"	function	line:235
+button	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <button type="button">Download<\/button>$/;"	function	line:236
+button	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <button type="button">Download<\/button>$/;"	function	line:237
+footer	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^  <footer id="footer">$/;"	function	line:244
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/index.html	/^    <p>© Copyright 2018 TinDog<\/p>$/;"	function	line:246
+h1, h2, h3, h4, h5, h6	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^h1, h2, h3, h4, h5, h6{$/;"	function	line:4
+h2	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^h2{$/;"	function	line:9
+p	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^p{$/;"	function	line:15
+.navbar	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^.navbar{$/;"	function	line:21
+.navbar-brand	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^.navbar-brand{$/;"	function	line:26
+.navbarItems	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^.navbarItems{$/;"	function	line:31
+.nav-item	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^.nav-item{$/;"	function	line:37
+.top-h1	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^.top-h1{$/;"	function	line:42
+.download-button	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^.download-button{$/;"	function	line:48
+.dog-img	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^.dog-img{$/;"	function	line:54
+.features-box	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^.features-box{$/;"	function	line:63
+.features-icon	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^.features-icon{$/;"	function	line:70
+.features-icon:hover	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^.features-icon:hover {$/;"	function	line:74
+.testimonial-image	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^.testimonial-image{$/;"	function	line:79
+.carousel-inner	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^.carousel-inner{$/;"	function	line:85
+.press-image	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^.press-image{$/;"	function	line:90
+.fa-calendar-check	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^.fa-calendar-check{$/;"	function	line:97
+.card	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^.card{$/;"	function	line:100
+.card-header	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^.card-header{$/;"	function	line:105
+.card-footer	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^.card-footer{$/;"	function	line:111
+.cta-text	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^.cta-text{$/;"	function	line:116
+.cta-button	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^.cta-button{$/;"	function	line:120
+.footer-icons	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^.footer-icons{$/;"	function	line:123
+#title	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^#title{$/;"	function	line:129
+#features	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^#features{$/;"	function	line:138
+#testimonials	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^#testimonials{$/;"	function	line:145
+#press	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^#press{$/;"	function	line:151
+#pricing	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^#pricing{$/;"	function	line:156
+#cta	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^#cta{$/;"	function	line:160
+#footer	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^#footer{$/;"	function	line:167
+@media (max-width: 1157px)	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^@media (max-width: 1157px){$/;"	function	line:173
+h1	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^  h1{$/;"	function	line:174
+.cta-text	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^  .cta-text{$/;"	function	line:177
+#cta	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^  #cta{$/;"	function	line:180
+@media (max-width: 991px)	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^@media (max-width: 991px) {$/;"	function	line:184
+h2	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^  h2{$/;"	function	line:186
+.download-button	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^  .download-button{$/;"	function	line:190
+.dog-img	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^  .dog-img{$/;"	function	line:194
+#title	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^  #title{$/;"	function	line:201
+.cta-text	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^  .cta-text{$/;"	function	line:205
+.cta-button	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^  .cta-button{$/;"	function	line:208
+#footer	/Users/cavalgo/Desktop/MyWebProjects/Bootstrap Examples/TinDog-Start-master/css/styles.css	/^  #footer{$/;"	function	line:214
